@@ -1,0 +1,30 @@
+body{
+    display: flex; 
+    justify-content: center;
+}
+
+.container{
+    background: whitesmoke;
+    width: 800px;
+    height: auto;
+    padding-left: 15px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+table { 
+    margin: 0 auto; 
+}
+
+input{
+    margin-right: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-right: 30px;
+}
