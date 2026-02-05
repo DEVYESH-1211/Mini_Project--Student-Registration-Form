@@ -25,11 +25,7 @@ h1{
     text-align: center;
 }
 
-.docs label{
-    margin-right: 90px;
-}
-
-.footing{
-    padding-right: 100px;
-    text-align: right;
+.basic_info label,
+.basic_info input {
+    margin-bottom: 10px;
 }
