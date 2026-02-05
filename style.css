@@ -25,6 +25,11 @@ h1{
     text-align: center;
 }
 
-img{
-    margin-right: 30px;
+.docs label{
+    margin-right: 90px;
+}
+
+.footing{
+    padding-right: 100px;
+    text-align: right;
 }
